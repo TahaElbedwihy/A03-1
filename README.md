@@ -1,7 +1,8 @@
 # A03
 How to create a GitHub account?
-Step 1: Go to https://github.com/join 
 
+
+Step 1: Go to https://github.com/join 
 Step 2: Enter your personal detail. 
 Step 3: Press the Sign up button. 
 Step 4: Select the plan (Free, pro, team, enterprice)
@@ -32,3 +33,5 @@ Merge: Merge all of the commits into the base branch by clicking Merge pull requ
 Merge Conflict: Often, merge conflicts happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file. You must resolve all merge conflicts before you can merge a pull request on GitHub.
 
 Fetch: se git fetch to retrieve new work done by other people. Fetching from a repository grabs all the new remote-tracking branches and tags without merging those changes into your own branches. Otherwise, you can always add a new remoteand then fetch.
+
+Remote: A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub or on an internal server. In contrast to a local repository, a remote typically does not provide a file tree of the project's current state.
