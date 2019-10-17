@@ -35,3 +35,5 @@ Merge Conflict: Often, merge conflicts happen when people make different changes
 Fetch: se git fetch to retrieve new work done by other people. Fetching from a repository grabs all the new remote-tracking branches and tags without merging those changes into your own branches. Otherwise, you can always add a new remoteand then fetch.
 
 Remote: A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub or on an internal server. In contrast to a local repository, a remote typically does not provide a file tree of the project's current state.
+
+Taha Elbedwihy 10/17/2019
