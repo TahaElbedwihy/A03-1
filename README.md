@@ -38,11 +38,16 @@ Remote: A remote in Git is a common repository that all team members use to exch
 
 Taha Elbedwihy 10/22/2019
 
-Repository- 1 computer program. (An assignment) (Mothership)
-Branches- Copy of program at a certain time. 
-Commit - A change. (Controls code) Take original and new file and save the change. Git only saves the parts of the files that changes. Just tracks change and saves it.
-Merge- Automatic caking of branches.
-Fork - lets you have your own branch
-Tasks - Moving, renaming, creating files.
+Repository- Digital directory or storage space where you can access projects and all versions of it.(Mothership)
+Clone- A command downloading an existing Git repository to the local computer.
+Fork- Personal copy of another person's repository on your computer.
+Branch- Copy of the program
+Commit- The changes made from the old file to the new file. 
+Merge- Putting forked history backed together again. Puts 2 branches into 1.
+Checkout- Switching between versions of a target entity. Operates under files, commits, and branches. 
 Push- Sending committed changes to a remote repository. So others can access them.
-Merge Conflict- Merging branches that have competing commits. Git needs help to decide which changes to incorporate into the final merge.
+Pull- Tells others about the changes you pushed to a GitHub repository.
+Remote add/remove/show- Version of repository that is on github.
+Status- A type of status check on github. They will let you know if your commits meet the conditions set in the repository.
+Master Branch- The branch with the last commit you've made.
+
