@@ -45,3 +45,4 @@ Merge- Automatic caking of branches.
 Fork - lets you have your own branch
 Tasks - Moving, renaming, creating files.
 Push- Sending committed changes to a remote repository. So others can access them.
+Merge Conflict- Merging branches that have competing commits. Git needs help to decide which changes to incorporate into the final merge.
