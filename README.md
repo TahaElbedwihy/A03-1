@@ -39,3 +39,4 @@ Remote: A remote in Git is a common repository that all team members use to exch
 Taha Elbedwihy 10/22/2019
 
 Repository- 1 computer program. (An assignment) (Mothership)
+Branches- Copy of program at a certain time. 
