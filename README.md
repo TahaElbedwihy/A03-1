@@ -35,3 +35,14 @@ Merge Conflict: Often, merge conflicts happen when people make different changes
 Fetch: se git fetch to retrieve new work done by other people. Fetching from a repository grabs all the new remote-tracking branches and tags without merging those changes into your own branches. Otherwise, you can always add a new remoteand then fetch.
 
 Remote: A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub or on an internal server. In contrast to a local repository, a remote typically does not provide a file tree of the project's current state.
+
+Taha Elbedwihy 10/22/2019
+
+Repository- 1 computer program. (An assignment) (Mothership)
+Branches- Copy of program at a certain time. 
+Commit - A change. (Controls code) Take original and new file and save the change. Git only saves the parts of the files that changes. Just tracks change and saves it.
+Merge- Automatic caking of branches.
+Fork - lets you have your own branch
+Tasks - Moving, renaming, creating files.
+Push- Sending committed changes to a remote repository. So others can access them.
+Merge Conflict- Merging branches that have competing commits. Git needs help to decide which changes to incorporate into the final merge.
