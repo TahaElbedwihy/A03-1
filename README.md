@@ -44,3 +44,4 @@ Commit - A change. (Controls code) Take original and new file and save the chang
 Merge- Automatic caking of branches.
 Fork - lets you have your own branch
 Tasks - Moving, renaming, creating files.
+Push- Sending committed changes to a remote repository. So others can access them.
