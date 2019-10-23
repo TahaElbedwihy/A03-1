@@ -40,3 +40,4 @@ Taha Elbedwihy 10/22/2019
 
 Repository- 1 computer program. (An assignment) (Mothership)
 Branches- Copy of program at a certain time. 
+Commit - A change. (Controls code) Take original and new file and save the change. Git only saves the parts of the files that changes. Just tracks change and saves it.
